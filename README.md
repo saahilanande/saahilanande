@@ -1,4 +1,4 @@
-[![MasterHead](./banner.gif)](https://rishavchanda.io)
+[![MasterHead](./banner.gif)](https://www.linkedin.com/in/saahilanande21/)
 
 
 <h1 align="center">Hi 👋, I'm Saahil Anande</h1>
