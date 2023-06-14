@@ -37,6 +37,6 @@
 <pre>           </pre>
 
 ### :fire: My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saahilanande&theme=tokyonight) &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saahilanande&layout=compact&theme=vision-friendly-dark)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saahilanande&theme=tokyonight) &ensp; &ensp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saahilanande&layout=compact&theme=vision-friendly-dark)
 
 ![footer](https://github.com/rohanmandrekar/rohanmandrekar/assets/62501896/0e5201cb-dba7-42df-ae60-68941582df49)
